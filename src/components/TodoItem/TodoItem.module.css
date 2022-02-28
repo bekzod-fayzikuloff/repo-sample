@@ -1,0 +1,25 @@
+.disabled {
+    color: red;
+    padding: 17px;
+    text-decoration-line: line-through;
+}
+
+.disabled:hover {
+    background-color: #fff;
+}
+
+.enabled {
+    color: lawngreen;
+    padding: 17px;
+}
+
+.enabled:hover {
+    background-color: #ffffff;
+}
+
+.item__wrapper {
+    width: 40%;
+    border: 2px solid greenyellow;
+    margin-bottom: 14px;
+}
+

@@ -1,0 +1,7 @@
+.wrapper {
+    color: #ffffff;
+    width: 100%;
+    margin-bottom: 11px;
+    background: rgb(121,39,176);
+    background: linear-gradient(90deg, rgba(121,39,176,1) 0%, rgba(130,29,253,1) 50%, rgba(252,176,69,1) 100%);
+}
